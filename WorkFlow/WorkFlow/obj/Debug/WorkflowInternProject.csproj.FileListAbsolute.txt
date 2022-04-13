@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\C#\WorkflowInternProject\WorkflowInternProject\bin\Debug\WorkflowInternProject.exe.config
+C:\Users\Lenovo\Desktop\C#\WorkflowInternProject\WorkflowInternProject\bin\Debug\WorkflowInternProject.exe
+C:\Users\Lenovo\Desktop\C#\WorkflowInternProject\WorkflowInternProject\bin\Debug\WorkflowInternProject.pdb
+C:\Users\Lenovo\Desktop\C#\WorkflowInternProject\WorkflowInternProject\obj\Debug\WorkflowInternProject.Form1.resources
+C:\Users\Lenovo\Desktop\C#\WorkflowInternProject\WorkflowInternProject\obj\Debug\WorkflowInternProject.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C#\WorkflowInternProject\WorkflowInternProject\obj\Debug\WorkflowInternProject.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\C#\WorkflowInternProject\WorkflowInternProject\obj\Debug\WorkflowInternProject.exe
+C:\Users\Lenovo\Desktop\C#\WorkflowInternProject\WorkflowInternProject\obj\Debug\WorkflowInternProject.pdb
+C:\Users\Lenovo\Desktop\C#\WorkflowInternProject\WorkflowInternProject\obj\Debug\WorkflowInternProject.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\WorkflowInternProject\WorkflowInternProject\obj\Debug\WorkflowInternProject.frmLogin.resources
+C:\Users\Lenovo\Desktop\C#\WorkflowInternProject\WorkflowInternProject\obj\Debug\WorkflowInternProject.frmAddProject.resources
+C:\Users\Lenovo\Desktop\C#\WorkflowInternProject\WorkflowInternProject\obj\Debug\WorkflowInternProject.frmProjectActions.resources
